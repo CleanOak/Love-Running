@@ -38,6 +38,20 @@ header a {
     color: inherit;
 }
 
+#menu {
+    font-size: 100%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: solid #3a3a3a;
+}
+
 h1 {
     font-family: 'oswald', sans-serif;
     text-transform: uppercase;
