@@ -29,6 +29,11 @@ h1, h2, h3 {
     letter-spacing: 2px;
     color: #252525;
 }
+/* Hide element but still make it available for search 
+engines*/
+.hidden-heading {
+    display: none;
+}
 
 /* Header*/
 header {
