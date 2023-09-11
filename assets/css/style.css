@@ -190,18 +190,14 @@ main {
 #photos img {
     width: 100%;
     line-height: 1em;
+    column-gap: 0;
 }
 
 #photos {
     line-height: 0;
 }
 
-#photo1 img {
-    width: 100%;
-}
-#photo1 {
-    line-height: 0;
-}
+
 
 /* Footer */
 #social-networks {
